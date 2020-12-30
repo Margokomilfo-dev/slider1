@@ -12,3 +12,8 @@ The adaptiv(js), simple, universal and beautiful slider relized by JS and css
 3) 1 and 2 paragraphs interconnected
 4) nice animation
 
+![alt text](1.png) <br/>
+Pic 1 - The first slide
+
+![alt text](2.png) <br/>
+Pic 2 - The last slide
